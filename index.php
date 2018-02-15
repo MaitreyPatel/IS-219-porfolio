@@ -54,7 +54,9 @@
 <body>
 <br><br>
 <br><br><br><br><br><br><br><br>
-
+<div class="profile_pic">
+    <img src="img/Capture.JPG" height="300" width="300">
+</div>
 	<h1>ABOUT ME</h1><br>
 	 <p>I am Maitrey Patel. I am going to be a recent graduate from New Jersey Insitute of Technology with a Bachelor's of Science in Computer Science and a minor in Web Information's and System(WIS) with a GPA of 3.2. I am very hard working and dedicated toward the work I recieve. I am also very outgoing, I will try my best to achieve the best results as possible. I believe that my experience in Java, Python, SQL, HTML/CSS, PHP, JavaScript and much more will make me a suiteable candidate for your company. My hobbies are to play sports during my free time and to make new websites using HTML/CSS, PHP, JavaScript, and JQuery. I would appreciate the opportunity to meet and further share with you my qualifications and enthusiasm to join the company who is looking for an Entry level candidate.</p>
 	
