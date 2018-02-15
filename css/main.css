@@ -1,0 +1,629 @@
+body {margin:0;}
+
+ul {
+    list-style-type: none;
+	margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: black !important;
+    border-color: #e7e7e7;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    width: 60%;
+    font-weight: normal;
+	margin-top: 3%;
+    position: fixed;
+	margin-left: 40%;
+	
+}
+
+
+.menu {
+		overflow:hidden;
+		background-color: black;
+		position: fixed;
+		z-index: 10;
+		
+		
+}
+.menu li a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25x;
+	
+}
+.menu li a:hover {
+  background-color: gray;
+}
+
+
+.logo {
+	float: left;
+	padding-left: 20%;
+	padding-right: 35%;
+	padding-bottom: 0.01%;
+	padding-top: 0.01%;
+	position: fixed;
+	background-color: black;
+	overflow: hidden;
+}
+
+
+	
+h4 {
+	padding-top: 20%;
+}
+.button {
+    background-color: #FFFFFF;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border: none; 
+	font-weight: bold;
+	margin-left: 45%;
+	margin-top: 20%;
+}
+
+.button1 {
+	background-color: transparent; 
+    color: white; 
+    border: 2px solid #FFFFFF;
+}
+h1 {
+	font-size: 36px;
+	font-weight: 600;
+	color: black;
+	font-family: inherit;
+}
+p {
+	font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+	padding-top: 7px;
+    line-height: 26px;
+    letter-spacing: 0.5px;
+}
+#about {
+	margin-left: 60%;
+}
+
+
+body {
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+}
+.container-skills {
+	margin: 20px auto 0 auto;
+  max-width: 400px;
+}
+
+.bar {
+  position: relative;
+	background-color: #d8d8d8;
+	height: 10px;
+	margin: 0 0 20px 0;
+}
+.bar-fill {
+  position: absolute;
+  height: 10px;
+}
+.bar-title {
+  position: relative;
+	font-size: 1em;
+	text-align: left;
+	margin: 0 0 5px 0;
+}
+.percent {
+  position: absolute;
+	right: 0;
+}
+
+/* Animations Below - Replace ease-out with infinite for infinite loop*/
+/*Edit here for html*/  
+.bar-fill-html {
+	width: 90%;
+  background-color: #e44d26;
+	animation: bar-fill-html 2s ease-out;
+	-moz-animation: bar-fill-html 2s ease-out;
+  -webkit-animation: bar-fill-html 2s ease-out;
+}
+@keyframes bar-fill-html {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+@-moz-keyframes bar-fill-html {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+@-webkit-keyframes bar-fill-html {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+/*Edit here for Javascript*/
+.bar-fill-javascript {
+	width: 60%;
+  background-color: #f8dc3d;
+  animation: bar-fill-javascript 2s ease-out;
+	-moz-animation: bar-fill-javascript 2s ease-out;
+  -webkit-animation: bar-fill-javascript 2s ease-out;
+}
+@keyframes bar-fill-javascript {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+@-moz-keyframes bar-fill-javascript {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+@-webkit-keyframes bar-fill-javascript {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+/*Edit here for Jquery*/
+.bar-fill-jquery{
+	width: 70%;
+  background-color: #131b28;
+  animation: bar-fill-jquery 2s ease-out;
+	-moz-animation: bar-fill-jquery 2s ease-out;
+  -webkit-animation: bar-fill-jquery 2s ease-out;
+}
+@keyframes bar-fill-jquery {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+@-moz-keyframes bar-fill-jquery {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+@-webkit-keyframes bar-fill-jquery {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+/*Edit here for PHP*/
+.bar-fill-php{
+	width: 70%;
+  background-color: #429f46;
+  animation: bar-fill-php 2s ease-out;
+	-moz-animation: bar-fill-php 2s ease-out;
+  -webkit-animation: bar-fill-php 2s ease-out;
+}
+@keyframes bar-fill-php {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+@-moz-keyframes bar-fill-php {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+@-webkit-keyframes bar-fill-php {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+/*Edit here for Java*/
+.bar-fill-java{
+	width: 80%;
+  background-color: #0a73dc;
+  animation: bar-fill-java 2s ease-out;
+	-moz-animation: bar-fill-java 2s ease-out;
+  -webkit-animation: bar-fill-java 2s ease-out;
+}
+@keyframes bar-fill-java {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+@-moz-keyframes bar-fill-java {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+@-webkit-keyframes bar-fill-java {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+/*Edit here for Python*/
+.bar-fill-python{
+	width: 90%;
+  background-color: #FF0000;
+  animation: bar-fill-python 2s ease-out;
+	-moz-animation: bar-fill-python 2s ease-out;
+  -webkit-animation: bar-fill-python 2s ease-out;
+}
+@keyframes bar-fill-python {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+@-moz-keyframes bar-fill-python {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+@-webkit-keyframes bar-fill-python {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+/*Edit here for SQL*/
+.bar-fill-sql{
+	width: 60%;
+  background-color: #FF00FF;
+  animation: bar-fill-sql 2s ease-out;
+	-moz-animation: bar-fill-sql 2s ease-out;
+  -webkit-animation: bar-fill-sql 2s ease-out;
+}
+@keyframes bar-fill-sql {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+@-moz-keyframes bar-fill-sql {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+@-webkit-keyframes bar-fill-sql {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+/*Edit here for Bootstrap*/
+.bar-fill-bootstrap{
+	width: 80%;
+  background-color: #00FF00;
+  animation: bar-fill-sql 2s ease-out;
+	-moz-animation: bar-fill-sql 2s ease-out;
+  -webkit-animation: bar-fill-sql 2s ease-out;
+}
+@keyframes bar-fill-bootstrap {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+@-moz-keyframes bar-fill-bootstrap {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+@-webkit-keyframes bar-fill-bootstrap {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+/*Edit here for Linux*/
+.bar-fill-linux{
+	width: 60%;
+  background-color: #000080;
+  animation: bar-fill-sql 2s ease-out;
+	-moz-animation: bar-fill-sql 2s ease-out;
+  -webkit-animation: bar-fill-sql 2s ease-out;
+}
+@keyframes bar-fill-linux {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+@-moz-keyframes bar-fill-linux {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+@-webkit-keyframes bar-fill-linux {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 60%;
+    }
+}
+/*Edit here for Software_development*/
+.bar-fill-software_development{
+	width: 80%;
+  background-color: #FF1493;
+  animation: bar-fill-software_development 2s ease-out;
+	-moz-animation: bar-fill-software_development 2s ease-out;
+  -webkit-animation: bar-fill-software_development 2s ease-out;
+}
+@keyframes bar-fill-software_development {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+@-moz-keyframes bar-fill-software_development {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+@-webkit-keyframes bar-fill-software_development {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+
+#email, #address, #phone {
+   float: left;
+   width: 300px;
+   text-align: center;
+   font-size: 25px;
+}
+.contact_info {
+	margin-left: 20%;
+}
+input[type=button] {
+ background-color: black;
+  border-color: black;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 12px 25px;
+}
+  
+input[type=button]:hover {
+background-color: gray;
+}
+
+.form {
+	background-repeat: no-repeat;
+	margin-left: 25%;
+}
+.resume {
+	margin-left: 26%;
+}
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+/* The actual timeline (the vertical ruler) */
+.experience {
+    position: relative;
+    max-width: 50%;
+	
+    
+}
+
+/* The actual timeline (the vertical ruler) */
+.experience::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: gray;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+
+/* Container around content */
+.container {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 50%;
+}
+
+/* The circles on the timeline */
+.container::after {
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -17px;
+    background-color: white;
+    background-image: url("img/briefcase.png");
+    border: 4px solid #FF9F55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+    
+}
+
+
+/* Place the container to the right */
+.right {
+    left: 50%;
+}
+
+
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    left: 30px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.right::after {
+    left: -16px;
+}
+
+/* The actual content */
+.content {
+    padding: 20px 30px;
+    background-color: gray;
+    position: relative;
+    border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media all and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .experience::after {
+    left: 31px;
+  }
+  
+  /* Full-width containers */
+  .container {
+    width: 50%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+  
+  /* Make sure that all arrows are pointing leftwards */
+  .container::before {
+    left: 60px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+  }
+
+ 
+  /* Make all right containers behave like the left ones */
+  .right {
+    left: 0%;
+  }
+}
+h1 {
+  margin-top: 10%;
+}
+
+
