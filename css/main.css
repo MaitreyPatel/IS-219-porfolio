@@ -96,6 +96,10 @@ p {
 .about_me {
 	margin-left: 60%;
 }
+.education {
+	margin: 20px auto 0 auto;
+  max-width: 400px;
+}
 
 
 body {
@@ -519,7 +523,8 @@ background-color: gray;
 /* The actual timeline (the vertical ruler) */
 .experience {
     position: relative;
-    max-width: 50%;
+	margin: 20px auto 0 auto;
+  max-width: 400px;
 	
     
 }
