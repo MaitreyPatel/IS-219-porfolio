@@ -1,4 +1,3 @@
-
 body {margin:0;}
 
 ul {
@@ -132,7 +131,7 @@ body {
 /*Edit here for html*/  
 .bar-fill-html {
 	width: 90%;
-  background-color: black;
+  background-color: #e44d26;
 	animation: bar-fill-html 2s ease-out;
 	-moz-animation: bar-fill-html 2s ease-out;
   -webkit-animation: bar-fill-html 2s ease-out;
@@ -167,7 +166,7 @@ body {
 /*Edit here for Javascript*/
 .bar-fill-javascript {
 	width: 60%;
-  background-color: black;
+  background-color: #f8dc3d;
   animation: bar-fill-javascript 2s ease-out;
 	-moz-animation: bar-fill-javascript 2s ease-out;
   -webkit-animation: bar-fill-javascript 2s ease-out;
@@ -202,7 +201,7 @@ body {
 /*Edit here for Jquery*/
 .bar-fill-jquery{
 	width: 70%;
-  background-color: black;
+  background-color: #131b28;
   animation: bar-fill-jquery 2s ease-out;
 	-moz-animation: bar-fill-jquery 2s ease-out;
   -webkit-animation: bar-fill-jquery 2s ease-out;
@@ -237,7 +236,7 @@ body {
 /*Edit here for PHP*/
 .bar-fill-php{
 	width: 70%;
-  background-color: black;
+  background-color: #429f46;
   animation: bar-fill-php 2s ease-out;
 	-moz-animation: bar-fill-php 2s ease-out;
   -webkit-animation: bar-fill-php 2s ease-out;
@@ -272,7 +271,7 @@ body {
 /*Edit here for Java*/
 .bar-fill-java{
 	width: 80%;
-  background-color: black;
+  background-color: #0a73dc;
   animation: bar-fill-java 2s ease-out;
 	-moz-animation: bar-fill-java 2s ease-out;
   -webkit-animation: bar-fill-java 2s ease-out;
@@ -307,7 +306,7 @@ body {
 /*Edit here for Python*/
 .bar-fill-python{
 	width: 90%;
-  background-color: black;
+  background-color: #FF0000;
   animation: bar-fill-python 2s ease-out;
 	-moz-animation: bar-fill-python 2s ease-out;
   -webkit-animation: bar-fill-python 2s ease-out;
@@ -342,7 +341,7 @@ body {
 /*Edit here for SQL*/
 .bar-fill-sql{
 	width: 60%;
-  background-color: black;
+  background-color: #FF00FF;
   animation: bar-fill-sql 2s ease-out;
 	-moz-animation: bar-fill-sql 2s ease-out;
   -webkit-animation: bar-fill-sql 2s ease-out;
@@ -377,7 +376,7 @@ body {
 /*Edit here for Bootstrap*/
 .bar-fill-bootstrap{
 	width: 80%;
-  background-color: black;
+  background-color: #00FF00;
   animation: bar-fill-sql 2s ease-out;
 	-moz-animation: bar-fill-sql 2s ease-out;
   -webkit-animation: bar-fill-sql 2s ease-out;
@@ -412,7 +411,7 @@ body {
 /*Edit here for Linux*/
 .bar-fill-linux{
 	width: 60%;
-  background-color: black;
+  background-color: #000080;
   animation: bar-fill-sql 2s ease-out;
 	-moz-animation: bar-fill-sql 2s ease-out;
   -webkit-animation: bar-fill-sql 2s ease-out;
@@ -447,7 +446,7 @@ body {
 /*Edit here for Software_development*/
 .bar-fill-software_development{
 	width: 80%;
-  background-color: black;
+  background-color: #FF1493;
   animation: bar-fill-software_development 2s ease-out;
 	-moz-animation: bar-fill-software_development 2s ease-out;
   -webkit-animation: bar-fill-software_development 2s ease-out;
@@ -627,6 +626,8 @@ background-color: gray;
   float: left;
   margin-left: 5%;
 }
+
+
 
 
 
