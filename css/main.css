@@ -17,7 +17,16 @@ ul {
 	margin-left: 30%;
 	
 }
-
+@media screen and (max-width: 500px) {
+  .menu a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .menu-right {
+    float: none;
+  }
+}
 
 .menu {
 		overflow:hidden;

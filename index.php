@@ -22,7 +22,7 @@
       <img src="img/logo4.PNG"  height="55" width="55">
       </a>
 			</div>
-		<nav class="header-nav-wrap mobile">	
+			
 		<ul>
 			
       <b>
@@ -39,14 +39,8 @@
       <b>
 		
 		</ul>
-		</nav>
-		<a class="header-menu-toggle" href="#0">
-			<span>
-			::before
-			"Menu"
-			::after
-			</span>
-		</a>
+		
+		
 			
 </div>
 
