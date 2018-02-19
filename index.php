@@ -76,7 +76,9 @@
 
 	<h1><center>Resume<center></h1><br>
 	<div class="resume">
+	<div class="col-xs-12">
 		<embed src="https://web.njit.edu/~mp458/profile/RESUME.pdf" width="700" height="700" type="application/pdf">
+	</div>
 	</div>
 	
 </div>
