@@ -38,7 +38,7 @@ body {margin:0;}
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   .menu.responsive {position: relative;}
   .menu.responsive .icon {
     position: absolute;
