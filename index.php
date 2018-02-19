@@ -78,13 +78,13 @@
 
 	<h1><center>Education<center></h1><br>
 	<div class="education">
-		<h2>William L. Dickinson High School</h2>
+		<h3>William L. Dickinson High School</h3>
 			<p>Graduated 2013</p>
-		<h2>New Jersey City Univversity</h2>
+		<h3>New Jersey City Univversity</h3>
 			<p>Bachelor's of Science in Computer Science<p>
 			<p>Transfered 2014</p>
 			<p>GPA: 3.5</p>
-		<h2>New Jersey Insitute of Technology</h2>
+		<h3>New Jersey Insitute of Technology</h3>
 			<p>Bachelor's of Science in Computer Science</p>
 			<p>Graduating 2018</p>
 			<p>GPA: 3.0
