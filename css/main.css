@@ -18,7 +18,7 @@ ul {
 	
 }
 @media screen and (max-width: 500px) {
-  .menu a {
+  .menu li a {
     float: none;
     display: block;
     text-align: left;
