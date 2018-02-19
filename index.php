@@ -15,7 +15,7 @@
 <div class="home"><a name="home"></a>
 <section style="background-image: url('img/background-5.jpg'); width: 100%; height: 820px; background-repeat: no-repeat;">
 
-<div class="menu">
+<div class="topnav" id="topnav">
 		<div class="logo">
 			<!--<h2 style="font-family: fantasy; font-size: 30px; color: white;">MP</h2>-->
       <a href="index.html">
@@ -34,6 +34,8 @@
 			<li><a href="#experience">Experience</a></li>
 			<li><a href="#skills">Skills</a></li>
 			<li><a href="#contact">Contact</a></li>
+			<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
 			
       
       <b>
@@ -43,7 +45,16 @@
 		
 			
 </div>
-
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
 
 
 	<h4 style="color:white;"><center>I am Maitrey Patel</center></h4>
