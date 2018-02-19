@@ -15,7 +15,7 @@
 <div class="home"><a name="home"></a>
 <section style="background-image: url('img/background-5.jpg'); width: 100%; height: 820px; background-repeat: no-repeat;">
 
-<div class="menu">
+<div class="menu" class="col-md-12">
 		<div class="logo">
 			<!--<h2 style="font-family: fantasy; font-size: 30px; color: white;">MP</h2>-->
       <a href="index.html">
