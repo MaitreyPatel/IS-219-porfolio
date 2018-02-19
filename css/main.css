@@ -44,7 +44,7 @@ ul {
 
 .logo {
 	float: left;
-	padding-left: 20%;
+	padding-left: 12%;
 	padding-right: 35%;
 	padding-bottom: 0.01%;
 	padding-top: 0.01%;
@@ -97,8 +97,7 @@ p {
 	margin-left: 60%;
 }
 .education {
-	margin: 20px auto 0 auto;
-  max-width: 310px;
+	margin: 5px auto 0 auto;
 }
 
 
@@ -524,6 +523,7 @@ background-color: gray;
 .experience {
     position: relative;
     max-width: 50%;
+	margin: auto;
 	
     
 }

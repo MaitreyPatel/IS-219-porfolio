@@ -74,7 +74,7 @@
  
  <div id="education"><a name="education"></a>
 <br><br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 	<h1><center>Education<center></h1><br>
 	<div class="education">
