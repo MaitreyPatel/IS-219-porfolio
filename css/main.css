@@ -3,7 +3,7 @@ body {margin:0;}
 
 ul {
     list-style-type: none;
-	margin: auto;
+	margin: 0;
     padding: 0px;
     overflow: hidden;
     background-color: black !important;
@@ -14,7 +14,7 @@ ul {
     font-weight: normal;
 	margin-top: 3%;
     position: fixed;
-	margin-left: 30%;
+	margin-left: 10%;
 	
 }
 @media screen and (max-width: 500px) {
