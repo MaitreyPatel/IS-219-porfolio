@@ -108,45 +108,37 @@
 	<div class="experience">
   <div class="container right">
     <div class="content">
-	<div class="col-xs-12">
       <h1>Optum, Basking Ridge, NJ</h1>
       <h2>Software Engineer</h2>
       <p>-	Helping convert mainframe DB2 COBOL programs to Java programs.</p>
       <p>-	Making a login page, registration page and a comment system for Archon using PHP, HTML, CSS, JavaScript and SQL.</p>
       <p>-	Analyzing and debugging code written from COBOL to Java.</p>
     </div>
-	</div>
   </div>
   <div class="container right">
     <div class="content">
-	<div class="col-xs-12">
       <h1>Today's Business, Pine Brook, NJ</h1>
       <h2>Web/Digital Development</h2>
       <p>-	Assisting with making updates to the clients website and landing pages from ground up.</p>
       <p>-	Assist with the project management, content, and development of websites on multiple platforms.</p>
       <p>-	Design and building Facebook tabs, Landing pages and Mobile Application.</p>
     </div>
-	</div>
   </div>
   
   <div class="container right">
     <div class="content">
-	<div class="col-xs-12">
       <h1>BJ's Wholesale Club, Jersey City, NJ</h1>
       <h2>Cashier</h2>
       <p>-	Help serve customers, and make sure their shopping experience at BJs Wholesale Club is worth remembering so they will come back again and again.</p>
     </div>
-	</div>
   </div>
   
   <div class="container right">
     <div class="content">
-	<div class="col-xs-12"
       <h1>Jang Star Taekwondo School, Jersey City, NJ</h1>
       <h2>Balck Belt Instructor</h2>
       <p>-	Train students to learn Martial Arts so they can achieve their Black Belts.</p>
     </div>
-	</div>
   </div>
 </div>
 
