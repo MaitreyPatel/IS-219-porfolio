@@ -103,7 +103,7 @@ p {
     letter-spacing: 0.5px;
 }
 .about_me {
-	margin-left: 55%;
+	margin-left: 90%;
 	margin-top:10%;
 }
 .education {
@@ -638,7 +638,7 @@ background-color: gray;
   }
 }
 .profile_pic {
-  float: left;
+  float: center;
   margin-left: 5%;
 }
 
