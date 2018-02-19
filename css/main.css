@@ -564,7 +564,7 @@ background-color: gray;
     width: 25px;
     height: 25px;
     right: -17px;
-    background-color: white;
+    background-color: black;
     background-image: url("img/briefcase.png");
     border: 4px solid #FF9F55;
     top: 15px;
@@ -603,10 +603,9 @@ background-color: gray;
 /* The actual content */
 .content {
     padding: 20px 30px;
-    background-color: gray;
+    background-color: white;
     position: relative;
     border-radius: 12px;
-	padding-right:20%;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
