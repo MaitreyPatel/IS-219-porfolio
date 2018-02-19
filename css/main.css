@@ -6,7 +6,7 @@ ul {
 	margin: 0;
     padding: 0px;
     overflow: hidden;
-    background-color: black !important;
+    background-color: #605F5E;
     border-color: #e7e7e7;
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     font-size: 18px;
@@ -21,7 +21,7 @@ ul {
 
 .menu {
 		overflow:hidden;
-		background-color: black;
+		background-color: #605F5E;
 		position: fixed;
 		z-index: 10;
 		
