@@ -11,9 +11,6 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Dancing+Script" />
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <!--<script src="js/skill.js" type="text/JavaScript"></script>-->
 <div class="home"><a name="home"></a>
 <section style="background-image: url('img/background-5.jpg'); width: 100%; height: 820px; background-repeat: no-repeat;">
@@ -54,36 +51,28 @@
 </div>
 </head>
 <div id="about"><a name="about"></a>
-
 <body>
 <br><br>
 <br><br><br><br><br><br><br><br>
 <div class="profile_pic">
-
     <img src="img/Capture.JPG" height="300" width="300">
-</div>
-</div>
+  </div>
 <div class="about_me">
-
 	<h1>ABOUT ME</h1><br>
 	 <p>I am Maitrey Patel. I am going to be a recent graduate from New Jersey Insitute of Technology with a Bachelor's of Science in Computer Science and a minor in Web Information's and System(WIS) with a GPA of 3.2. I am very hard working and dedicated toward the work I recieve. I am also very outgoing, I will try my best to achieve the best results as possible. I believe that my experience in Java, Python, SQL, HTML/CSS, PHP, JavaScript and much more will make me a suiteable candidate for your company. My hobbies are to play sports during my free time and to make new websites using HTML/CSS, PHP, JavaScript, and JQuery. I would appreciate the opportunity to meet and further share with you my qualifications and enthusiasm to join the company who is looking for an Entry level candidate.</p>
-
+</div>
 </div>
 <br><br><br><br><br><br>
  
  <div id="resume"><a name="resume"></a>
- 
 <br><br>
 <br><br><br><br><br><br><br><br>
 
 	<h1><center>Resume<center></h1><br>
-	<div class="resume" style="float:center;">
-	
+	<div class="resume">
 		<embed src="https://web.njit.edu/~mp458/profile/RESUME.pdf" width="700" height="700" type="application/pdf">
-	
 	</div>
 	
-
 </div>
 <br><br><br><br><br><br>
 
@@ -98,18 +87,18 @@
     <div class="content">
       <h1>Optum, Basking Ridge, NJ</h1>
       <h2>Software Engineer</h2>
-      <p>-	Helping convert mainframe DB2 COBOL programs to Java programs.</p>
-      <p>-	Making a login page, registration page and a comment system for Archon using PHP, HTML, CSS, JavaScript and SQL.</p>
-      <p>-	Analyzing and debugging code written from COBOL to Java.</p>
+      <p>â€¢	Helping convert mainframe DB2 COBOL programs to Java programs.</p>
+      <p>â€¢	Making a login page, registration page and a comment system for Archon using PHP, HTML, CSS, JavaScript and SQL.</p>
+      <p>â€¢	Analyzing and debugging code written from COBOL to Java.</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h1>Today's Business, Pine Brook, NJ</h1>
       <h2>Web/Digital Development</h2>
-      <p>-	Assisting with making updates to the clients website and landing pages from ground up.</p>
-      <p>-	Assist with the project management, content, and development of websites on multiple platforms.</p>
-      <p>-	Design and building Facebook tabs, Landing pages and Mobile Application.</p>
+      <p>â€¢	Assisting with making updates to the clients website and landing pages from ground up.</p>
+      <p>â€¢	Assist with the project management, content, and development of websites on multiple platforms.</p>
+      <p>â€¢	Design and building Facebook tabs, Landing pages and Mobile Application.</p>
     </div>
   </div>
   
@@ -117,7 +106,7 @@
     <div class="content">
       <h1>BJ's Wholesale Club, Jersey City, NJ</h1>
       <h2>Cashier</h2>
-      <p>-	Help serve customers, and make sure their shopping experience at BJs Wholesale Club is worth remembering so they will come back again and again.</p>
+      <p>â€¢	Help serve customers, and make sure their shopping experience at BJs Wholesale Club is worth remembering so they will come back again and again.</p>
     </div>
   </div>
   
@@ -125,9 +114,8 @@
     <div class="content">
       <h1>Jang Star Taekwondo School, Jersey City, NJ</h1>
       <h2>Balck Belt Instructor</h2>
-      <p>-	Train students to learn Martial Arts so they can achieve their Black Belts.</p>
+      <p>â€¢	Train students to learn Martial Arts so they can achieve their Black Belts.</p>
     </div>
-  </div>
   </div>
 </div>
 
