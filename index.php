@@ -15,7 +15,7 @@
 <div class="home"><a name="home"></a>
 <section style="background-image: url('img/background-5.jpg'); width: 100%; height: 820px; background-repeat: no-repeat;">
 
-<div class="topnav" id="topnav">
+<div class="menu" id="menu">
 		<div class="logo">
 			<!--<h2 style="font-family: fantasy; font-size: 30px; color: white;">MP</h2>-->
       <a href="index.html">
@@ -23,38 +23,39 @@
       </a>
 			</div>
 			
-		<ul>
+		
 			
       <b>
 			<!--<li><a href="#"><h2 class="heading" style="font-family: fantasy; font-size: 18px; color: white; margin-left: 35%;">MP</a></h2></li>-->
-			<li><a href="#home">Home</a></li>
-			<li><a href="#about">About</a></li>
-			<li><a href="#education">Education</a></li>
-			<li><a href="#resume">Resume</a></li>
-			<li><a href="#experience">Experience</a></li>
-			<li><a href="#skills">Skills</a></li>
-			<li><a href="#contact">Contact</a></li>
-			<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-</div>
+			<a href="#home">Home</a>
+			<a href="#about">About</a>
+			<a href="#education">Education</a>
+			<a href="#resume">Resume</a></li>
+			<a href="#experience">Experience</a>
+			<a href="#skills">Skills</a>
+			<a href="#contact">Contact</a>
+            <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 			
       
       <b>
 		
-		</ul>
 		
 		
-			
-</div>
 <script>
 function myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
+    var x = document.getElementById("menu");
+    if (x.className === "menu") {
         x.className += " responsive";
     } else {
-        x.className = "topnav";
+        x.className = "menu";
     }
 }
-</script>
+</script>		
+			
+</div>
+
+
+
 
 
 	<h4 style="color:white;"><center>I am Maitrey Patel</center></h4>
