@@ -80,7 +80,7 @@
 	<h1><center>Resume<center></h1><br>
 	<div class="resume" style="float:center;">
 	
-		<embed src="https://web.njit.edu/~mp458/profile/RESUME.pdf" width="700" height="700" type="application/pdf">
+		<embed src="https://web.njit.edu/~mp458/profile/RESUME.pdf" width="400" height="400" type="application/pdf">
 	
 	</div>
 	
