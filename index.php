@@ -95,6 +95,7 @@
 
 	<h1><center>EXPERIENCE</center></h1><br>
 	<div class="experience">
+	<div class="col-xs-12">
   <div class="container right">
     <div class="content">
       <h1>Optum, Basking Ridge, NJ</h1>
@@ -128,6 +129,7 @@
       <h2>Balck Belt Instructor</h2>
       <p>â€¢	Train students to learn Martial Arts so they can achieve their Black Belts.</p>
     </div>
+  </div>
   </div>
 </div>
 
