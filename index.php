@@ -59,32 +59,31 @@
 <br><br>
 <br><br><br><br><br><br><br><br>
 <div class="profile_pic">
-<div class="col-xs-6">
+
     <img src="img/Capture.JPG" height="300" width="300">
 </div>
 </div>
 <div class="about_me">
-<div class="col-xs-6">
+
 	<h1>ABOUT ME</h1><br>
 	 <p>I am Maitrey Patel. I am going to be a recent graduate from New Jersey Insitute of Technology with a Bachelor's of Science in Computer Science and a minor in Web Information's and System(WIS) with a GPA of 3.2. I am very hard working and dedicated toward the work I recieve. I am also very outgoing, I will try my best to achieve the best results as possible. I believe that my experience in Java, Python, SQL, HTML/CSS, PHP, JavaScript and much more will make me a suiteable candidate for your company. My hobbies are to play sports during my free time and to make new websites using HTML/CSS, PHP, JavaScript, and JQuery. I would appreciate the opportunity to meet and further share with you my qualifications and enthusiasm to join the company who is looking for an Entry level candidate.</p>
-</div>
-</div>
+
 </div>
 <br><br><br><br><br><br>
  
  <div id="resume"><a name="resume"></a>
- <div class='col-xs-12'>
+ 
 <br><br>
 <br><br><br><br><br><br><br><br>
 
 	<h1><center>Resume<center></h1><br>
 	<div class="resume" style="float:center;">
 	
-		<embed src="https://web.njit.edu/~mp458/profile/RESUME.pdf" width="400" height="400" type="application/pdf">
+		<embed src="https://web.njit.edu/~mp458/profile/RESUME.pdf" width="700" height="700" type="application/pdf">
 	
 	</div>
 	
-</div>
+
 </div>
 <br><br><br><br><br><br>
 
@@ -95,7 +94,6 @@
 
 	<h1><center>EXPERIENCE</center></h1><br>
 	<div class="experience">
-	<div class="col-xs-12">
   <div class="container right">
     <div class="content">
       <h1>Optum, Basking Ridge, NJ</h1>
