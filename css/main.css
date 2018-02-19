@@ -30,7 +30,7 @@ body {margin:0;}
   display: none;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 900px) {
   .menu a:not(:first-child) {display: none;}
   .menu a.icon {
     float: right;
@@ -38,7 +38,7 @@ body {margin:0;}
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 900px) {
   .menu.responsive {position: relative;}
   .menu.responsive .icon {
     position: absolute;
