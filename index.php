@@ -116,18 +116,18 @@
     <div class="content">
       <h1>Optum, Basking Ridge, NJ</h1>
       <h2>Software Engineer</h2>
-      <p>â€¢	Helping convert mainframe DB2 COBOL programs to Java programs.</p>
-      <p>â€¢	Making a login page, registration page and a comment system for Archon using PHP, HTML, CSS, JavaScript and SQL.</p>
-      <p>â€¢	Analyzing and debugging code written from COBOL to Java.</p>
+      <p>-	Helping convert mainframe DB2 COBOL programs to Java programs.</p>
+      <p>-	Making a login page, registration page and a comment system for Archon using PHP, HTML, CSS, JavaScript and SQL.</p>
+      <p>-	Analyzing and debugging code written from COBOL to Java.</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h1>Today's Business, Pine Brook, NJ</h1>
       <h2>Web/Digital Development</h2>
-      <p>â€¢	Assisting with making updates to the clients website and landing pages from ground up.</p>
-      <p>â€¢	Assist with the project management, content, and development of websites on multiple platforms.</p>
-      <p>â€¢	Design and building Facebook tabs, Landing pages and Mobile Application.</p>
+      <p>-	Assisting with making updates to the clients website and landing pages from ground up.</p>
+      <p>-	Assist with the project management, content, and development of websites on multiple platforms.</p>
+      <p>-	Design and building Facebook tabs, Landing pages and Mobile Application.</p>
     </div>
   </div>
   
@@ -135,7 +135,7 @@
     <div class="content">
       <h1>BJ's Wholesale Club, Jersey City, NJ</h1>
       <h2>Cashier</h2>
-      <p>â€¢	Help serve customers, and make sure their shopping experience at BJs Wholesale Club is worth remembering so they will come back again and again.</p>
+      <p>-	Help serve customers, and make sure their shopping experience at BJs Wholesale Club is worth remembering so they will come back again and again.</p>
     </div>
   </div>
   
@@ -143,7 +143,7 @@
     <div class="content">
       <h1>Jang Star Taekwondo School, Jersey City, NJ</h1>
       <h2>Balck Belt Instructor</h2>
-      <p>â€¢	Train students to learn Martial Arts so they can achieve their Black Belts.</p>
+      <p>-	Train students to learn Martial Arts so they can achieve their Black Belts.</p>
     </div>
   </div>
 </div>
