@@ -523,8 +523,8 @@ background-color: gray;
 /* The actual timeline (the vertical ruler) */
 .experience {
     position: relative;
-	margin: 5px auto 0 auto;
-  max-width: 250px;
+    max-width: 50%;
+	margin: auto;
 	
     
 }
