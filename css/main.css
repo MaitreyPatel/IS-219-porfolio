@@ -14,7 +14,7 @@ ul {
     font-weight: normal;
 	margin-top: 3%;
     position: fixed;
-	margin-left: 40%;
+	margin-left: 30%;
 	
 }
 
@@ -97,7 +97,7 @@ p {
 	margin-left: 60%;
 }
 .education {
-	margin: 5px auto 0 auto;
+	margin: 20% auto 0 auto;
 }
 
 
@@ -523,7 +523,6 @@ background-color: gray;
 .experience {
     position: relative;
     max-width: 50%;
-	margin: auto;
 	
     
 }
